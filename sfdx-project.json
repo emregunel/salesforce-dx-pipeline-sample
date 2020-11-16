@@ -8,7 +8,7 @@
             "versionName": "version name"
         },
         {
-            "path": "/Users/emre.guenel/Desktop/herokupipelinetest/salesforce-dx-pipeline-sample/force-app",
+            "path": "/force-app",
             "package": "TestPackage",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
