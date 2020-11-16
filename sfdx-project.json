@@ -1,14 +1,24 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true,
-      "id": "0Ho6A0000004C9XSAU",
-      "versionNumber": "1.0.0.NEXT",
-      "versionName": "version name"
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "id": "0Ho6A0000004C9XSAU",
+            "versionNumber": "1.0.0.NEXT",
+            "versionName": "version name"
+        },
+        {
+            "path": "/Users/emre.guenel/Desktop/herokupipelinetest/salesforce-dx-pipeline-sample/force-app",
+            "package": "TestPackage",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "42.0",
+    "packageAliases": {
+        "TestPackage": "0Ho3X000000TNJFSA4"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "42.0"
 }
