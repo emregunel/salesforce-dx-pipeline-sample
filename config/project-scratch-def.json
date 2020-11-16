@@ -1,9 +1,4 @@
 {
     "orgName": "wade.wegner Company",
-    "edition": "Developer",
-    "settings": {
-        "lightningExperienceSettings": {
-            "enableS1DesktopEnabled": true
-        }
-    }
+    "edition": "Developer"
 }
